@@ -1,0 +1,5 @@
+{
+  "name": "AI Real Estate Ad Generator",
+  "description": "An AI-powered application to generate compelling real estate listings from property photos. Upload images, choose enhancement options like virtual staging, and instantly create professional ad copy tailored to your target audience.",
+  "requestFramePermissions": []
+}

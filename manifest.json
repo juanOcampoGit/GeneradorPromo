@@ -1,0 +1,16 @@
+{
+  "name": "Generador de Anuncios Inmobiliarios AI",
+  "short_name": "Anuncios AI",
+  "description": "Una aplicación impulsada por IA para generar listados inmobiliarios atractivos a partir de fotos de propiedades. Sube imágenes, elige opciones de mejora como el staging virtual y crea al instante textos de anuncios profesionales adaptados a tu público objetivo.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
